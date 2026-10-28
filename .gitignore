@@ -1,3 +1,6 @@
 data/*.csv
 results/
 figures/
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+*.ipynb_che*
